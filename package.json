@@ -1,8 +1,8 @@
 {
+    "publisher": "Exxallency",
     "name": "valkyrja-light",
     "displayName": "Valkyrja light",
     "description": "Light theme for Visual Studio Code",
-    "publisher": "Exxallency",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"
