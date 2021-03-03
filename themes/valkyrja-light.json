@@ -1,0 +1,73 @@
+{
+	"type": "light",
+	"colors":
+	{
+		"list.dropBackground": "#cecece",
+		"editor.foreground": "#202020",
+		"editor.background":"#dadada",
+		"sideBar.background": "#cecece",
+		"editor.lineHighlightBackground": "#c7c8c9",
+		"editor.inactiveSelectionBackground": "#ffe1e1",
+		"editor.selectionHighlightBackground": "#ffe1e1",
+		"editorIndentGuide.background": "#646464"
+	},
+	"tokenColors":
+	[
+		{
+			"scope" : "comment",
+			"settings":
+			{
+				"foreground" : "#6666ff"
+			}
+		},
+		{
+			"scope" : "keyword",
+			"settings":
+			{
+				"foreground" : "#00509F",
+				"fontStyle" : "bold"
+			}
+		},
+		{
+			"scope" : "string",
+			"settings":
+			{
+				"foreground" : "#626262"
+			}
+		},
+		{
+			"name" : "numbers",
+			"scope": 
+			[
+				"constant.numeric"
+			],
+			"settings": 
+			{
+				"foreground": "#3333ff"
+			}
+		},
+		{
+			"name" : "operators",
+			"scope": 
+			[
+				"keyword.operator.assignment.cs",
+				"keyword.operator.comparison.cs",
+				"keyword.operator.arithmetic.cs",
+				"keyword.operator.relational.cs",
+				"keyword.operator.assignment.compound.bitwise.cs",
+				"keyword.operator.assignment.compound.cs",
+				"keyword.operator.null-coalescing.cs",
+				"keyword.operator.logical.cs",
+				"keyword.operator.conditional.question-mark.cs",
+				"keyword.operator.bitwise.cs",
+				"keyword.operator.decrement.cs",
+				"keyword.operator.bitwise.shift.cs",
+				"punctuation.separator.comma.cs"
+			],
+			"settings": 
+			{
+				"foreground": "#00509F"
+			}
+		}
+	]
+}
