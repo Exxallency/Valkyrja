@@ -1,4 +1,6 @@
 ## Valkyrja Light Theme
 
-# Irma Salutes You !
-![Preview](https://i.imgur.com/GjJj48Y.jpg)
+This theme is mainly for Plain Texts.
+
+# Screenshots
+![Preview](https://i.imgur.com/5PGTJNa.png)
