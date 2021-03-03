@@ -7,7 +7,7 @@
     "engines": {
         "vscode": "^1.53.0"
     },
-    "icon": "icons/Valkyrja Light.png",
+    "icon": "icons/valkyrja-light.png",
     "author":{
         "name": "Exxallency"
     },
