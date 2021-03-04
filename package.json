@@ -1,30 +1,40 @@
 {
-    "publisher": "exxallency",
-    "name": "valkyrja-light",
-    "displayName": "Valkyrja light",
-    "description": "Light theme for Visual Studio Code",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.53.0"
-    },
-    "icon": "icons/valkyrja-light.png",
-    "author":{
-        "name": "Exxallency"
-    },
-    "repository":{
-        "url": "https://github.com/Exxallency/Valkyrja-Light.git",
-        "type": "git"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Valkyrja Light",
-                "uiTheme": "vs",
-                "path": "./themes/valkyrja-light.json"
-            }
-        ]
-    }
+	"publisher": "exxallency",
+	"name": "valkyrja",
+	"displayName": "Valkyrja Theme",
+	"description": "Light and Dark theme for Visual Studio Code",
+	"version": "0.0.4",
+	"engines": {
+		"vscode": "^1.53.0"
+	},
+	"icon": "images/valkyrja-dark.png",
+	"author": {
+		"name": "Exxallency"
+	},
+	"repository": {
+		"url": "https://github.com/Exxallency/Valkyrja-Theme.git",
+		"type": "git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Valkyrja Light",
+				"uiTheme": "vs",
+				"path": "./themes/valkyrja-light.json"
+			},
+			{
+				"label": "Valkyrja Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/valkyrja-dark.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "127baaa1-d67e-4017-bb3e-4ffd8eff1466",
+		"publisherId": "3cd91737-d0a8-4307-b996-bb62be05ea85",
+		"publisherDisplayName": "Exxallency"
+	}
 }
