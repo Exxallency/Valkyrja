@@ -17,3 +17,7 @@
 ## [0.0.5] - 3/4/2021
 
 - Valkyrja Dark Improvements
+
+## [0.0.6] - 3/4/2021
+
+- Quick Fix for Light Theme

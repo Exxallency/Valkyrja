@@ -2,7 +2,7 @@
 	"type": "light",
 	"colors":
 	{
-		"editor.foreground": "#C3C3C3",
+		"editor.foreground": "#252525",
 		"editor.background":"#DADADA",
 		"sideBar.background": "#CECECE",
 		"activityBar.background": "#DADADA",
@@ -34,7 +34,7 @@
 			"scope" : "string",
 			"settings":
 			{
-				"foreground" : "#626262"
+				"foreground" : "#99004C"
 			}
 		},
 		{

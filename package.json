@@ -3,7 +3,7 @@
 	"name": "valkyrja",
 	"displayName": "Valkyrja Theme",
 	"description": "Light and Dark theme for Visual Studio Code",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"engines": {
 		"vscode": "^1.53.0"
 	},
@@ -33,7 +33,7 @@
 		]
 	},
 	"__metadata": {
-		"id": "127baaa1-d67e-4017-bb3e-4ffd8eff1466",
+		"id": "57a52d66-d7c7-4267-941b-a9aabccc1ee3",
 		"publisherId": "3cd91737-d0a8-4307-b996-bb62be05ea85",
 		"publisherDisplayName": "Exxallency"
 	}
