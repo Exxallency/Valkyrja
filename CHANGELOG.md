@@ -13,3 +13,7 @@
 - Added Super Cute Cat Photo of Irma.
 - Changed Theme Icon.
 - Changed README.md
+
+## [0.0.5] - 3/4/2021
+
+- Valkyrja Dark Improvements

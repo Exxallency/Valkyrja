@@ -3,14 +3,12 @@
 	"colors":
 	{
 		"editor.foreground": "#C6C6C6",
-		"editor.background":"#1f1f1f",
+		"editor.background":"#1F1F1F",
 		"sideBar.background": "#181818",
-		"activityBar.background": "#1f1f1f",
-		"activityBar.foreground": "#cecece",
-		"activityBar.border": "#cecece",
-		"editor.lineHighlightBackground": "#464646",
-		"editor.inactiveSelectionBackground": "#ffe1e1",
-		"editor.selectionHighlightBackground": "#ffe1e1",
+		"activityBar.background": "#1F1F1F",
+		"activityBar.foreground": "#CECECE",
+		"activityBar.border": "#CECECE",
+		"editor.lineHighlightBackground": "#2C2C2C",
 		"editorIndentGuide.background": "#646464"
 	},
 	"tokenColors":
@@ -19,7 +17,7 @@
 			"scope" : "comment",
 			"settings":
 			{
-				"foreground" : "#ffcce5"
+				"foreground" : "#FFCCE5"
 			}
 		},
 		{
@@ -34,7 +32,7 @@
 			"scope" : "string",
 			"settings":
 			{
-				"foreground" : "#9999ff"
+				"foreground" : "#9999FF"
 			}
 		},
 		{
@@ -45,7 +43,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#99ffff"
+				"foreground": "#99FFFF"
 			}
 		},
 		{

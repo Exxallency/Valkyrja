@@ -3,14 +3,14 @@
 	"colors":
 	{
 		"editor.foreground": "#C3C3C3",
-		"editor.background":"#dadada",
-		"sideBar.background": "#cecece",
-		"activityBar.background": "#dadada",
+		"editor.background":"#DADADA",
+		"sideBar.background": "#CECECE",
+		"activityBar.background": "#DADADA",
 		"activityBar.foreground": "#000000",
-		"activityBar.border": "#00509f",
-		"editor.lineHighlightBackground": "#c7c8c9",
-		"editor.inactiveSelectionBackground": "#ffe1e1",
-		"editor.selectionHighlightBackground": "#ffe1e1",
+		"activityBar.border": "#00509F",
+		"editor.lineHighlightBackground": "#C7C8C9",
+		"editor.inactiveSelectionBackground": "#FFE1E1",
+		"editor.selectionHighlightBackground": "#FFE1E1",
 		"editorIndentGuide.background": "#646464"
 	},
 	"tokenColors":
@@ -19,7 +19,7 @@
 			"scope" : "comment",
 			"settings":
 			{
-				"foreground" : "#6666ff"
+				"foreground" : "#6666FF"
 			}
 		},
 		{
@@ -45,7 +45,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#3333ff"
+				"foreground": "#3333FF"
 			}
 		},
 		{
