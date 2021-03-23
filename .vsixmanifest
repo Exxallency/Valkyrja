@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="valkyrja-light" Version="0.0.3" Publisher="exxallency"/>
-    <DisplayName>Valkyrja light</DisplayName>
-    <Description xml:space="preserve">Light theme for Visual Studio Code</Description>
+    <Identity Language="en-US" Id="valkyrja" Version="0.0.5" Publisher="exxallency"/>
+    <DisplayName>Valkyrja Theme</DisplayName>
+    <Description xml:space="preserve">Light and Dark theme for Visual Studio Code</Description>
     <Tags>theme,color-theme</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
@@ -15,10 +15,10 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="ui,workspace,web" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
       
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/Exxallency/Valkyrja-Light.git" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/Exxallency/Valkyrja-Light.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/Exxallency/Valkyrja-Theme.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/Exxallency/Valkyrja-Theme.git" />
         
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/Exxallency/Valkyrja-Light.git" />
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/Exxallency/Valkyrja-Theme.git" />
         
       
       
@@ -31,7 +31,7 @@
       
     </Properties>
     
-    <Icon>extension/icons/valkyrja-light.png</Icon>
+    <Icon>extension/images/valkyrja-dark.png</Icon>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Code"/>
@@ -39,6 +39,6 @@
   <Dependencies/>
   <Assets>
     <Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="extension/package.json" Addressable="true" />
-    <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Content.Changelog" Path="extension/CHANGELOG.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/icons/valkyrja-light.png" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Content.Changelog" Path="extension/CHANGELOG.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/images/valkyrja-dark.png" Addressable="true" />
   </Assets>
 </PackageManifest>
