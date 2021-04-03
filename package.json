@@ -3,7 +3,7 @@
 	"name": "valkyrja",
 	"displayName": "Valkyrja Theme",
 	"description": "Light and Dark theme for Visual Studio Code",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"engines": {
 		"vscode": "^1.53.0"
 	},
