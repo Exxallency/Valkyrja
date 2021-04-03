@@ -17,14 +17,14 @@
 			"scope" : "comment",
 			"settings":
 			{
-				"foreground" : "#FFCCE5"
+				"foreground" : "#808080"
 			}
 		},
 		{
 			"scope" : "keyword",
 			"settings":
 			{
-				"foreground" : "#99FFFF",
+				"foreground" : "#99CCFF",
 				"fontStyle" : "bold"
 			}
 		},
@@ -43,7 +43,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#99FFFF"
+				"foreground": "#CCFFCC"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			],
 			"settings": 
 			{
-				"foreground": "#C6C6C6"
+				"foreground": "#99CCFF"
 			}
 		}
 	]
