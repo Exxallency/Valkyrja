@@ -23,7 +23,32 @@
 			}
 		},
 		{
-			"scope" : "keyword",
+			"scope" :
+			[
+				"variable.other.object.cs"
+			],
+			"settings":
+			{
+				"foreground" : "#006BD5"
+			}
+		},
+		{
+			"scope" :
+			[
+				"entity.name.function.cs"
+			],
+			"settings":
+			{
+				"foreground" : "#2693FF"
+			}
+		},
+		{
+			"scope" : 
+			[
+				"keyword",
+				"entity.name.tag.html",
+				"meta.tag.structure.input.void.html"
+			],
 			"settings":
 			{
 				"foreground" : "#00509F",

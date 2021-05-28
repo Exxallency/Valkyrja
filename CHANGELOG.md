@@ -25,3 +25,8 @@
 ## [0.0.7] - 4/4/2021
 
 - Dark Theme Improvements
+
+## [0.0.8] - 05/28/2021
+
+- Basic HTML Support
+- C# Improvement
